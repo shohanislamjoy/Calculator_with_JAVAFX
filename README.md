@@ -29,10 +29,6 @@ The Calculator with JavaFX project is a simple calculator application developed 
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request on the GitHub repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 You can reach out to the developer, Shohan Islam Joy (Ronol), via GitHub:https://github.com/Shohan999Ronol
