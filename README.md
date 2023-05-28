@@ -19,7 +19,7 @@ The Calculator with JavaFX project is a simple calculator application developed 
 4. Use the number buttons to enter the desired operands.
 5. Click the corresponding operator button (+, -, *, /) to perform the desired operation.
 6. The result will be displayed in the result field.
-7. Click the "C" button to clear the input fields and the result display.
+7. Click the "AC" button to clear the input fields and the result display.
 
 ## Demo
 
