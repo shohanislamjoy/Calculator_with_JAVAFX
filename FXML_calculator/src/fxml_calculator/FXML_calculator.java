@@ -9,6 +9,7 @@ import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
+import javafx.scene.image.Image;
 import javafx.stage.Stage;
 
 /**
@@ -16,13 +17,15 @@ import javafx.stage.Stage;
  * @author Shohan
  */
 public class FXML_calculator extends Application {
-    
+
     @Override
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("FXMLDocument.fxml"));
-        
+        Image image = new Image(getClass().getResourceAsStream("calculator.png"));
         Scene scene = new Scene(root);
-        
+        stage.setTitle("S&R Calculator");
+        stage.getIcons().add(image);
+
         stage.setScene(scene);
         stage.show();
     }
@@ -33,5 +36,5 @@ public class FXML_calculator extends Application {
     public static void main(String[] args) {
         launch(args);
     }
-    
+
 }
