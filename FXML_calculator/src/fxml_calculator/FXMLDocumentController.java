@@ -51,7 +51,9 @@ public class FXMLDocumentController implements Initializable {
     }
     
     
-    public void Ans (ActionEvent ae){
+    public void AC (ActionEvent ae){
+        text_result.setText("");
+        
     }
     public void calculate (long n1, long n2, String op){
     
