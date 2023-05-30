@@ -22,7 +22,7 @@ The Calculator with JavaFX project is a simple calculator application developed 
 7. Click the "AC" button to clear the input fields and the result display.
 
 ## Demo
-
+ Installer: https://drive.google.com/file/d/1PVBbZof-DK8vGRoBkf6bl80lRoUeFjk3/view?usp=sharing
 
 
 ## Contributing
