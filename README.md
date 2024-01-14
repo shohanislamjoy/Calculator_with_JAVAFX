@@ -13,7 +13,7 @@ The Calculator with JavaFX project is a simple calculator application developed 
 
 ## Usage
 
-1. Clone the repository from [GitHub](https://github.com/Shohan999Ronol/Calculator_with_JAVAFX).
+1. Clone the repository from [GitHub](https://github.com/shohanislamjoy/Calculator_with_JAVAFX).
 2. Open the project in your preferred Java IDE.
 3. Build and run the application.
 4. Use the number buttons to enter the desired operands.
@@ -29,8 +29,7 @@ The Calculator with JavaFX project is a simple calculator application developed 
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request on the GitHub repository.
 
-## Contact
+# Contact
+### If You face any problems with can reach out [via GitHub](https://github.com/shohanislamjoy) will try my best to help.
 
-You can reach out to the developer, Shohan Islam Joy (Ronol), via GitHub:https://github.com/Shohan999Ronol
-
-Thank you for using the Calculator with JavaFX application! Happy calculating!
+## Thank you for using the Calculator with JavaFX application! Happy calculating!
